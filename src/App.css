@@ -1,4 +1,8 @@
 @import "tailwindcss";
+.main-img {
+  background: url(./assets/bg.jpg) no-repeat center center;
+  background-size: cover;
+}
 /* #root {
   max-width: 1280px;
   margin: 0 auto;
